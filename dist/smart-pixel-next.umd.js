@@ -418,7 +418,7 @@
         }
         if (this.props.activateAutoTracking || this.props.activateActions) {
           this.actionsAfterRouting(5);
-          if (this.props.router !== null) {
+          if (this.props.router !== null && this.props.router.events !== null) {
             this.props.router.events.on('routeChangeComplete', function () {
               _this2.actionsAfterRouting(500);
             });
