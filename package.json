@@ -7,10 +7,10 @@
     "types": "./types/index.d.ts",
     "author": "Webtrekk GmbH",
     "license": "MIT",
-    "homepage": "https://github.com/gerzen/Webtrekk-Smart-Pixel/packages/next#readme",
+    "homepage": "https://github.com/gerzen/Webtrekk-Smart-Pixel#readme",
     "repository": {
         "type": "git",
-        "url": "https://github.com/gerzen/Webtrekk-Smart-Pixel"
+        "url": "https://github.com/gerzen/Webtrekk-Smart-Pixel#next"
     },
     "bugs": {
         "url": "https://github.com/gerzen/Webtrekk-Smart-Pixel/issues"
